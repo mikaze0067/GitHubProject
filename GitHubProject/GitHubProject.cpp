@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello VisualStudio Git!\n";
 
     std::cout << "PullRequest Branch changed\n";
+
+    std::cout << "clone changed\n";
     
 }
 
